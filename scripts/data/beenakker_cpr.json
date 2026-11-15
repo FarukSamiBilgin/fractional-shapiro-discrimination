@@ -1,0 +1,12 @@
+{
+  "description": "Short-junction Beenakker CPR (PRL 67, 3836 (1991)) at transparency tau, Fourier sine harmonics c_1..c_5 normalised so max_phi I(phi)=1 (currents in units of Ic). Values as used by every thermal/node script; normalize_cpr is idempotent on them.",
+  "harmonics_by_tau": {
+    "0.8": [
+      0.9832251977193381,
+      -0.18418877746298778,
+      0.05224606848033632,
+      -0.016530345198899395,
+      0.005502419482597332
+    ]
+  }
+}
